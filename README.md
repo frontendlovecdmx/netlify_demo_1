@@ -1,2 +1,2 @@
-# netlify_demo_1
-Un repositorio sencillo para publicar con Netlify
+# Netlify Demo 1
+Este repo publica un HTML sencillo para Netlify
